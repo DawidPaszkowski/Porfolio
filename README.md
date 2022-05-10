@@ -32,9 +32,9 @@ My name is Dawid Paszkowski. I am senior finnancial specialist. I studied Histor
 # Articles
   - [Article about creating portfolio in GitHub using my portfolio as example](https://remigiuszbednarczyk.pl/portfolio-testera?fbclid=IwAR2jX5Kqys6g0o9xi0qkzqhDKy3p0hIHajaN8dO6NFyh5w1NwMnlQrq8-aQ)
 # My test case examples
-  - [Test cases for site 
+  - [Test cases for site inchargecard.com (
 # My bug reports
-  - [Bugs reported for inchargecard.com  site](https://drive.google.
+  - [Bugs reported for inchargecard.com  site](https://docs.google.com/document/d/18Mq2jifl4VgzcPpQLZnmHEuX-4rwlJw_eWSCG8gCAJ4/edit)
 # My projects
   - [cherry-it project Oddesa] (http://cherry-it.pl/odessa-strona-techniczna-projektu/
       
