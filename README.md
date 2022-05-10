@@ -28,7 +28,7 @@ My name is Dawid Paszkowski. I am senior finnancial specialist. I studied Histor
   - testerzy.pl
   - testuj.pl - Test, Bugs & Rock'n'Roll
   - remigiuszbednarczyk.pl
-  - cherry-it
+  - cherry-it.pl
 # Articles
   - [Article about creating portfolio in GitHub using my portfolio as example](https://remigiuszbednarczyk.pl/portfolio-testera?fbclid=IwAR2jX5Kqys6g0o9xi0qkzqhDKy3p0hIHajaN8dO6NFyh5w1NwMnlQrq8-aQ)
 # My test case examples
