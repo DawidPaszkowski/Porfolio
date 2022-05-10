@@ -13,7 +13,7 @@ My name is Dawid Paszkowski. I am senior finnancial specialist. I studied Histor
   - Creating test cases
   - Reporting bugs
 # Certificates
-  - [ISTQB] (https://www.gasq.org/en/certification/check-a-certificate.html) 
+  - [ISTQB] (https://sii.pl/szkolenia/oferta/istqb-foundation/) 
 # Courses
   - [Software Development Academy] (https://sdacademy.pl/kursy/)
   - [Innovation Center SQL] (https://biblioteka.wroc.pl/filie/filia-nr-13/)
