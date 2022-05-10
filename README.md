@@ -4,7 +4,7 @@ My name is Dawid Paszkowski. I am senior finnancial specialist. I studied Histor
 # Tools
   - [Trello](https://www.trello.com/) - Issue tracking and project management tool for developers
   - [Postman](https://www.postman.com/) - Testing tool for REST API
-  - [Jira](https://www.atlassian.com/software/jira0), [Trello](https://trello.com/) - Issue tracking and project management tool for developers
+  - [Jira](https://www.atlassian.com/software/jira0) - Issue tracking and project management tool for developers
   - Github
 # Tech skills
   - SQL
