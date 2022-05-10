@@ -24,7 +24,6 @@ My name is Dawid Paszkowski. I am senior finnancial specialist. I studied Histor
   - Tester oprogramowania - wsparcie na starcie
   - Testowanie oprogramowania
   - Nieinformatyk
-  - 
 # Recommended blogs
   - testerzy.pl
   - testuj.pl - Test, Bugs & Rock'n'Roll
