@@ -1,7 +1,6 @@
 # Porfolio
 # About me
-My name is Dawid Paszkowski. I am senior finnancial specialist. I studed History at University of Wroclaw. I am from a small village in Sudety. Now I live in Wroclaw.  I love trrekingk out of trials around my family town and in the Alps. My passion is football and the XX-the ceuntiry history. 
-I have started to interest of software testing. My goal is to develop testing knowlage and technical skills. On this site I would like to share my all gained experience from personal studies and researches
+My name is Dawid Paszkowski. I am senior finnancial specialist. I studied History at the University of Wroclaw. I am from a small village in Sudety. Now I live in Wroclaw. I love trekking out of trials around my family town and in the Alps. My passion is football and the XX-the century history. I have started to be interested in software testing. My goal is to develop testing knowledge and technical skills. On this site, I would like to share my all gained experience from personal studies and researches
 # Tools
   - [Trello](https://www.trello.com/) - Issue tracking and project management tool for developers
   - [Postman](https://www.postman.com/) - Testing tool for REST API
@@ -14,9 +13,9 @@ I have started to interest of software testing. My goal is to develop testing kn
   - Creating test cases
   - Reporting bugs
 # Certificates
-  - [ISTQB](https://www.gasq.org/en/certification/check-a-certificate.html) 
+  - [ISTQB] (https://www.gasq.org/en/certification/check-a-certificate.html) 
 # Courses
-  - [Software Development Academy](https://sdacademy.pl/kursy/)
+  - [Software Development Academy] (https://sdacademy.pl/kursy/)
   - [Innovation Center SQL] (https://biblioteka.wroc.pl/filie/filia-nr-13/)
   - [utest.com academy] (https://www.utest.com/academy)
 # Books
