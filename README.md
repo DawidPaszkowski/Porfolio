@@ -1,4 +1,4 @@
-# Porfolio
+# Portfolio
 # About me
 My name is Dawid Paszkowski. I am senior finnancial specialist. I studied History at the University of Wroclaw. I am from a small village in Sudety. Now I live in Wroclaw. I love trekking out of trials around my family town and in the Alps. My passion is football and the XX-the century history. I have started to be interested in software testing. My goal is to develop testing knowledge and technical skills. On this site, I would like to share my all gained experience from personal studies and researches
 # Tools
