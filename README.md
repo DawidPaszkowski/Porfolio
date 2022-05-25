@@ -1,10 +1,10 @@
 # Portfolio
 # About me
-My name is Dawid Paszkowski. I am senior finnancial specialist. I studied History at the University of Wroclaw. I am from a small village in Sudety. Now I live in Wroclaw. I love trekking out of trials around my family town and in the Alps. My passion is football and the XX-the century history. I have started to be interested in software testing. My goal is to develop testing knowledge and technical skills. On this site, I would like to share my all gained experience from personal studies and researches
+My name is Dawid Paszkowski. I am a Senior Financial Specialist. I studied History at the University of Wroclaw. I am from a small village in the Sudetes. I currently live in Wroclaw. I love hiking around my hometown as well as in the Alps. My passion is football and 20th-century history. I have recently taken an interest in software testing. My goal is to develop testing knowledge and technical skills. On this site I’d like to share all my gained experience from personal study and research
 # Tools
-  - [Trello](https://www.trello.com/) - Issue tracking and project management tool for developers
+  - [Trello](https://trello.com/)- Issue tracking and project management tool for developers
   - [Postman](https://www.postman.com/) - Testing tool for REST API
-  - [Jira](https://www.atlassian.com/software/jira0) - Issue tracking and project management tool for developers
+  - [Jira](https://www.atlassian.com/software/jira0), [Trello](https://trello.com/) - Issue tracking and project management tool for developer 
   - Github
 # Tech skills
   - SQL
@@ -13,11 +13,10 @@ My name is Dawid Paszkowski. I am senior finnancial specialist. I studied Histor
   - Creating test cases
   - Reporting bugs
 # Certificates
-  - [ISTQB] (https://sii.pl/szkolenia/oferta/istqb-foundation/) 
+  - [ISTQB]([https://www.gasq.org/en/certification/check-a-certificate.html](https://sjsi.org/ist-qb/))
 # Courses
-  - [Software Development Academy] (https://sdacademy.pl/kursy/)
-  - [Innovation Center SQL] (https://biblioteka.wroc.pl/filie/filia-nr-13/)
-  - [utest.com academy] (https://www.utest.com/academy)
+  - [Software Development Academy Testowanie oprogramowaina](https://sdacademy.pl/)
+  - [Liga Niezwykłych Umysłów- SQL](https://www.lnu.org.pl/)
 # Books
   - R.Smilgin - Zawód tester
 # Groups on Facebook
@@ -25,17 +24,19 @@ My name is Dawid Paszkowski. I am senior finnancial specialist. I studied Histor
   - Testowanie oprogramowania
   - Nieinformatyk
 # Recommended blogs
+  - cherry-it.pl
   - testerzy.pl
   - testuj.pl - Test, Bugs & Rock'n'Roll
-  - remigiuszbednarczyk.pl
-  - cherry-it.pl
+  - remigiuszbednarczyk.pp
+# Webinars
+  - GeekON - praktyczne ćwiczenie SQL
+  - Szkoła testera - podstawy testowania
 # Articles
   - [Article about creating portfolio in GitHub using my portfolio as example](https://remigiuszbednarczyk.pl/portfolio-testera?fbclid=IwAR2jX5Kqys6g0o9xi0qkzqhDKy3p0hIHajaN8dO6NFyh5w1NwMnlQrq8-aQ)
 # My test case examples
-  - [Test cases for site inchargecard.com (
+  - [Test cases for site (https://app.stage.inchargecard.com/log-in)](https://docs.google.com/spreadsheets/d/16BabzvpGkXeUMoZbB1er1XLS9oa1kd6HLXWWSV5FZ2Y/edit#gid=0)
 # My bug reports
-  - [Bugs reported for inchargecard.com  site](https://docs.google.com/document/d/18Mq2jifl4VgzcPpQLZnmHEuX-4rwlJw_eWSCG8gCAJ4/edit)
+  - [Bugs reported for https://app.stage.inchargecard.com/log-in](https://docs.google.com/document/d/18Mq2jifl4VgzcPpQLZnmHEuX-4rwlJw_eWSCG8gCAJ4/edit)
 # My projects
-  - [cherry-it project Oddesa] (http://cherry-it.pl/odessa-strona-techniczna-projektu/
-      
-
+  - Projekt Odessa - testing site (https://app.stage.inchargecard.com/log-in))
+     - [Tablica trello.com](https://trello.com/c/VDOogAkI/5-create-test-case)
